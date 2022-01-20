@@ -4,3 +4,20 @@ header{
 main{
     background-color: #E5E5E5;
 }
+.button-color{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border-radius: 10px;
+    border: none;
+    padding: 18px 34px 18px 33px;
+}
+.button-color a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+}
+.button-color a:hover{
+    color: #fff;
+}
+.btn-color{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+}
